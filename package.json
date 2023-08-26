@@ -1,0 +1,24 @@
+{
+  "name": "tokencontractandwebsite",
+  "version": "1.0.0",
+  "description": "LETS TRY TO CREATE THE NEXT COIN",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TokenTestwithUI"
+  },
+  "keywords": [
+    "ERC20",
+    "Solidity",
+    "web3"
+  ],
+  "author": "Thhoms994",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
